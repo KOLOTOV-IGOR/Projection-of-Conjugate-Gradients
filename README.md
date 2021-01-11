@@ -3,6 +3,6 @@ Projection of Conjugate Gradients, with projection into the set of vectors with 
 
 ---
 
-* To lauch this program use command  ## make run
+* To lauch this program use command - make run
 
 ---
